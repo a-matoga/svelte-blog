@@ -3,7 +3,7 @@
 Simple blog application created using Svelte. It features registration, login, adding posts and deleting them.
 
 
-## 1. Installation
+## Installation
 
 ```bash
 #clone from github
