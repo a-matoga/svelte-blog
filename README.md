@@ -1,12 +1,12 @@
 # Svelte blog application
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Simple blog application created using Svelte. It features registration, login, adding posts and deleting them.
 
 
 ## 1. Installation
 
 ```bash
-# clone from github
+#clone from github
 git clone https://github.com/a-matoga/svelte-blog.git 
 #install all dependencies
 npm install
@@ -28,8 +28,7 @@ npm run dev
 npm run dev -- --open
 ```
 
-or create a production version
-
+or create a production version:
 
 ```bash
 npm run build
